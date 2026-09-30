@@ -1,0 +1,22 @@
+# Arquivos temporários do Word e do Office
+~$*
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Backups do Astah
+*.asta.bak
+*~
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Configurações locais de ferramentas
+.claude/
